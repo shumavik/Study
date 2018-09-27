@@ -75,6 +75,11 @@ def DrowN(color):
     end_fill()
     penup()
 penup()
+
+#Какой-то будет коммит
+
+
+
 goto(-325,200)
 DrowC('green')
 goto(-320, 100)
